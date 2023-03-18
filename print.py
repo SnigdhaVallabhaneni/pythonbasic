@@ -7,4 +7,4 @@ diff=a-b
 mod=a%b
 div=a/b
 print("the sum of a and b is",sum)
-print(mul,mod,diff,div)
+print("The arithmetic operators are"mul,mod,diff,div)
